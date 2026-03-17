@@ -1,0 +1,14 @@
+[project]
+name = "zadanie-rekrutacyjne"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "dotenv>=0.9.9",
+    "markdown>=3.10.2",
+    "openai>=2.29.0",
+    "pandas>=2.3.3",
+    "streamlit>=1.55.0",
+    "weasyprint>=68.1",
+]
